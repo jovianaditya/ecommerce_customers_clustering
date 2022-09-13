@@ -9,4 +9,4 @@ Information about the Machine Learning model :
 - Dataset contains e-commerce customers from various background.
 - Using K-means algorithm.
 
-Result : The e-commerce clustering result shows that customers can be segmented in 3 different groups, and it shows the younger customers tend to have high shopping score and that shopping score will decrease with the increasing of age.
+Result : The e-commerce clustering result shows that customers can be segmented in 3 different groups, and it shows the younger customers tend to have high shopping score and that shopping score will decrease along with the increasing of age.
